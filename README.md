@@ -3,5 +3,4 @@
 
 ## Link do Curso
 
-[Dio(https://web.dio.me/home)].
-
+[Dio](https://web.dio.me/home).
